@@ -1,16 +1,12 @@
 
-# 🍽️ Food Delivery — Landing Page
+# 🍽️ Restaurant — Landing Page
 
 Uma landing page moderna e responsiva para um serviço de delivery de comida saudável. O projeto foi desenvolvido utilizando **HTML5**, **CSS3** e **JavaScript**, com foco em design clean, navegação intuitiva e boa apresentação visual dos pratos.
 
 ## 📸 Prévia do Projeto
 
 ### 📱 Home
-![Home](./src/images/home-preview.png)
-
 ### 📋 Cardápio
-![Menu](./src/images/menu-preview.png)
-
 ---
 
 ## 📁 Estrutura de Pastas
